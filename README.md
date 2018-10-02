@@ -1,2 +1,2 @@
 # kotlin_basic_grammer
-# kotlin_basic_grammer
+kotlin_basic_grammer/app/basicgrammer/配下にkotlinの基本文法をまとめてあります。
